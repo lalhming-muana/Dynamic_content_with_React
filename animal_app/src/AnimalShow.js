@@ -1,6 +1,6 @@
-function AnimalShow(){
+function AnimalShow({ramsaType}){
     return <div>
-        A cow
+        {ramsaType}
     </div>
 }
 
